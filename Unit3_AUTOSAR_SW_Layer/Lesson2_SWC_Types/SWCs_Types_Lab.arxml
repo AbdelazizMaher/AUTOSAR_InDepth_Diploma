@@ -2,7 +2,7 @@
 <AUTOSAR xmlns="http://autosar.org/schema/r4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://autosar.org/schema/r4.0 AUTOSAR_00044.xsd">
 	<AR-PACKAGES>
 		<AR-PACKAGE>
-			<SHORT-NAME>INTERFACES</SHORT-NAME>
+			<SHORT-NAME>SWCs_EABS_Packgae</SHORT-NAME>
 			<!-- Describe SWCs Types ( Learn in depth ) -->
 			<ELEMENTS>
 				<SENSOR-ACTUATOR-SW-COMPONENT-TYPE>
