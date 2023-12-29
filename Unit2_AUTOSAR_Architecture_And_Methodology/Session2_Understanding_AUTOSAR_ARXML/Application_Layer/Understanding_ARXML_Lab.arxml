@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AUTOSAR xmlns="http://autosar.org/schema/r4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://autosar.org/schema/r4.0 AUTOSAR_00044.xsd">
+  <AR-PACKAGES>
+	 <AR-PACKAGE>
+			<SHORT-NAME>INTERFACES</SHORT-NAME>
+			<!-- Describe Interfaces ( Learn in depth ) -->
+			<ELEMENTS>
+				<SENDER-RECEIVER-INTERFACE>
+					<SHORT-NAME>SR_IF_LidarData</SHORT-NAME>
+					<DATA-ELEMENTS>
+						<VARIABLE-DATA-PROTOTYPE>
+							<SHORT-NAME>LidarSensor</SHORT-NAME>
+							<TYPE-TREF DEST="IMPLEMENTATION-DATA-TYPE">/AUTOSAR_PlatformTypes/ImplementationDataTypes/uint32</TYPE-TREF>
+						</VARIABLE-DATA-PROTOTYPE>
+					</DATA-ELEMENTS>
+				</SENDER-RECEIVER-INTERFACE>
+			</ELEMENTS>
+		</AR-PACKAGE>
+  </AR-PACKAGES>
+</AUTOSAR>
