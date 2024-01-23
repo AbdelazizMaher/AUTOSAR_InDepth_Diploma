@@ -1,0 +1,2 @@
+../AUTOSAR_Implementation/RTE_GeneratedFiles/Rte_SWC_DoorLock_Indication.c:27:10:Rte_IRead_SWC_DoorLock_Indication_DoorLock_Indication_Algo_RP_SR_DoorLock_DoorState	4	static
+../AUTOSAR_Implementation/RTE_GeneratedFiles/Rte_SWC_DoorLock_Indication.c:31:16:Rte_Call_SWC_DoorLock_Indication_RP_CS_LedSwitch_LedSwitch	24	static

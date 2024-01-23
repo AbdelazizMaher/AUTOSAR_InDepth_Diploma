@@ -1,0 +1,2 @@
+../AUTOSAR_Implementation/SWCs/SWC_DoorSensor_LedActuator_Abs.c:21:16:Set_LedSwitch_Runnable	24	static
+../AUTOSAR_Implementation/SWCs/SWC_DoorSensor_LedActuator_Abs.c:50:6:Read_DoorSensor_Runnable	16	static
